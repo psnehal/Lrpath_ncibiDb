@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/codestore/ncibi/WebBackend/!svn/ver/724/ncibi-db/trunk/src/test/resources
+END
+test.properties.template
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/codestore/ncibi/WebBackend/!svn/ver/614/ncibi-db/trunk/src/test/resources/test.properties.template
+END
+credentials.properties
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/codestore/ncibi/WebBackend/!svn/ver/500/ncibi-db/trunk/src/test/resources/credentials.properties
+END
+project.config
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/codestore/ncibi/WebBackend/!svn/ver/500/ncibi-db/trunk/src/test/resources/project.config
+END

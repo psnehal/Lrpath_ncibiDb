@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/codestore/ncibi/WebBackend/!svn/ver/780/ncibi-db/trunk/src/main/java/org/ncibi/db
+END
+QueryPropertyConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/codestore/ncibi/WebBackend/!svn/ver/734/ncibi-db/trunk/src/main/java/org/ncibi/db/QueryPropertyConstructor.java
+END
+NullPersistenceSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/codestore/ncibi/WebBackend/!svn/ver/734/ncibi-db/trunk/src/main/java/org/ncibi/db/NullPersistenceSession.java
+END
+FluentQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/codestore/ncibi/WebBackend/!svn/ver/498/ncibi-db/trunk/src/main/java/org/ncibi/db/FluentQuery.java
+END
+PersistenceUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/codestore/ncibi/WebBackend/!svn/ver/734/ncibi-db/trunk/src/main/java/org/ncibi/db/PersistenceUnit.java
+END
+DB.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/codestore/ncibi/WebBackend/!svn/ver/734/ncibi-db/trunk/src/main/java/org/ncibi/db/DB.java
+END
+PersistenceUnits.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/codestore/ncibi/WebBackend/!svn/ver/525/ncibi-db/trunk/src/main/java/org/ncibi/db/PersistenceUnits.java
+END
+PersistenceSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/codestore/ncibi/WebBackend/!svn/ver/734/ncibi-db/trunk/src/main/java/org/ncibi/db/PersistenceSession.java
+END
+QueryProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/codestore/ncibi/WebBackend/!svn/ver/734/ncibi-db/trunk/src/main/java/org/ncibi/db/QueryProperty.java
+END
+EntityManagers.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/codestore/ncibi/WebBackend/!svn/ver/498/ncibi-db/trunk/src/main/java/org/ncibi/db/EntityManagers.java
+END

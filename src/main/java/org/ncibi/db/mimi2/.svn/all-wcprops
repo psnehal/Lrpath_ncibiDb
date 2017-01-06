@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/codestore/ncibi/WebBackend/!svn/ver/774/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2
+END
+Provenance.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/codestore/ncibi/WebBackend/!svn/ver/459/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/Provenance.java
+END
+PTM.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/codestore/ncibi/WebBackend/!svn/ver/683/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/PTM.java
+END
+GeneGeneInteractionAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/codestore/ncibi/WebBackend/!svn/ver/757/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/GeneGeneInteractionAttribute.java
+END
+BioEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/codestore/ncibi/WebBackend/!svn/ver/683/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/BioEntity.java
+END
+EntityPublication.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/codestore/ncibi/WebBackend/!svn/ver/683/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/EntityPublication.java
+END
+InteractionPublication.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/codestore/ncibi/WebBackend/!svn/ver/683/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/InteractionPublication.java
+END
+EntityGene.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/codestore/ncibi/WebBackend/!svn/ver/683/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/EntityGene.java
+END
+EntityExternalRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/codestore/ncibi/WebBackend/!svn/ver/683/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/EntityExternalRef.java
+END
+EntityName.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/codestore/ncibi/WebBackend/!svn/ver/753/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/EntityName.java
+END
+GeneGeneInteraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/codestore/ncibi/WebBackend/!svn/ver/757/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/GeneGeneInteraction.java
+END
+Taxonomy.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/codestore/ncibi/WebBackend/!svn/ver/683/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/Taxonomy.java
+END
+EntityType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/codestore/ncibi/WebBackend/!svn/ver/683/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/EntityType.java
+END
+ExternalRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/codestore/ncibi/WebBackend/!svn/ver/683/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/ExternalRef.java
+END
+Interaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/codestore/ncibi/WebBackend/!svn/ver/690/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/Interaction.java
+END
+InteractionExternalRef.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/codestore/ncibi/WebBackend/!svn/ver/683/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/InteractionExternalRef.java
+END
+Experiment.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/codestore/ncibi/WebBackend/!svn/ver/774/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/Experiment.java
+END
+EntityDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/codestore/ncibi/WebBackend/!svn/ver/683/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/EntityDescription.java
+END
+InteractionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/codestore/ncibi/WebBackend/!svn/ver/768/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/InteractionType.java
+END
+InteractionDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/codestore/ncibi/WebBackend/!svn/ver/749/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/InteractionDescription.java
+END
+GeneGeneInteractionAttributePk.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/codestore/ncibi/WebBackend/!svn/ver/757/ncibi-db/trunk/src/main/java/org/ncibi/db/mimi2/GeneGeneInteractionAttributePk.java
+END

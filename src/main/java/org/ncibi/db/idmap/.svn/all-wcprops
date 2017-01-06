@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/codestore/ncibi/WebBackend/!svn/ver/770/ncibi-db/trunk/src/main/java/org/ncibi/db/idmap
+END
+InteractionTypeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/codestore/ncibi/WebBackend/!svn/ver/767/ncibi-db/trunk/src/main/java/org/ncibi/db/idmap/InteractionTypeMap.java
+END
+ProteinIdTypeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/codestore/ncibi/WebBackend/!svn/ver/770/ncibi-db/trunk/src/main/java/org/ncibi/db/idmap/ProteinIdTypeMap.java
+END
+ExperimentMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/codestore/ncibi/WebBackend/!svn/ver/762/ncibi-db/trunk/src/main/java/org/ncibi/db/idmap/ExperimentMap.java
+END

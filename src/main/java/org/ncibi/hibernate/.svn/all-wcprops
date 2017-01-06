@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/codestore/ncibi/WebBackend/!svn/ver/765/ncibi-db/trunk/src/main/java/org/ncibi/hibernate
+END
+Sessions.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/codestore/ncibi/WebBackend/!svn/ver/721/ncibi-db/trunk/src/main/java/org/ncibi/hibernate/Sessions.java
+END
+SessionFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/codestore/ncibi/WebBackend/!svn/ver/490/ncibi-db/trunk/src/main/java/org/ncibi/hibernate/SessionFunction.java
+END
+SessionProcedure.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/codestore/ncibi/WebBackend/!svn/ver/490/ncibi-db/trunk/src/main/java/org/ncibi/hibernate/SessionProcedure.java
+END
+ColumnAnnotatedResultTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/codestore/ncibi/WebBackend/!svn/ver/490/ncibi-db/trunk/src/main/java/org/ncibi/hibernate/ColumnAnnotatedResultTransformer.java
+END
+HQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/codestore/ncibi/WebBackend/!svn/ver/490/ncibi-db/trunk/src/main/java/org/ncibi/hibernate/HQuery.java
+END

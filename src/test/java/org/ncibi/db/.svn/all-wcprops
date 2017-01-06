@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/codestore/ncibi/WebBackend/!svn/ver/780/ncibi-db/trunk/src/test/java/org/ncibi/db
+END
+PersistenceUnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/codestore/ncibi/WebBackend/!svn/ver/592/ncibi-db/trunk/src/test/java/org/ncibi/db/PersistenceUnitTest.java
+END
+MetdbTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/codestore/ncibi/WebBackend/!svn/ver/780/ncibi-db/trunk/src/test/java/org/ncibi/db/MetdbTest.java
+END
+ClosureTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/codestore/ncibi/WebBackend/!svn/ver/592/ncibi-db/trunk/src/test/java/org/ncibi/db/ClosureTest.java
+END
